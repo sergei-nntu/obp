@@ -4,4 +4,4 @@ Arduino-based open-source hardware power bank for DIY and Robotic applications. 
 
 # Installing Arduino code
 
-# Running the python library example
+#Python library example
