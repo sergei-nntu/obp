@@ -6,5 +6,5 @@ Arduino-based open-source hardware power bank for DIY and Robotic applications. 
 Arduino source code is located in folder `src/arduino/OpenBatteryPack`. Open it with Arduino IDE and flash it into your Arduino board.
 
 # Python library example
-`cd src/python`
-`python3 example.py`
+```cd src/python
+python3 example.py```
