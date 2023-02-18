@@ -30,9 +30,9 @@ int obp_soc = 2000;       // in mAh
 #define OBP_STATUS_CHARGING       0x03
 #define OBP_STATUS_FULLY_CHARGED  0x04
 
-#define OBP_FSM_STATE_WAITING_FOR_ZERO  0x00
-#define OBP_FSM_STATE_ZERO_CURRENT      0x00
-#define OBP_FSM_STATE_NON_ZERO_CURRENT  0x00
+#define OBP_FSM_STATE_WAITING_FOR_ZERO  0x01
+#define OBP_FSM_STATE_ZERO_CURRENT      0x02
+#define OBP_FSM_STATE_NON_ZERO_CURRENT  0x03
 
 #define OBP_AFTER_ZERO_ITERATIONS       10  // Number of 8 second intervals to check the voltage drop at non-zero current 
 
