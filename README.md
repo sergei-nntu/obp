@@ -19,5 +19,4 @@ The architecture documentation can be found in `doc` folder.
 
 # Case 3D Printing
 STL files for 3d printing can be found in `case` folder. 
-![OBP Case](/case/OBP_1_case.stl)
-![OBP Cover](/case/OBP_1_cover.stl)
+![OBP Assembled Model](/img/obp-assembled-model.png)
