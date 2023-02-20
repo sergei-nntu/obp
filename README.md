@@ -16,3 +16,8 @@ Flash the Arduino firmware into your board. Make sure it is connected through US
 
 # Technical Documentation
 The architecture documentation can be found in `doc` folder.
+
+# Case 3D Printing
+STL files for 3d printing can be found in `case` folder. 
+![OBP Case](/case/OBP_1_case.stl)
+![OBP Cover](/case/OBP_1_cover.stl)
