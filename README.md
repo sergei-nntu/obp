@@ -15,4 +15,4 @@ Flash the Arduino firmware into your board. Make sure it is connected through US
 `python3 example.py`
 
 # Technical Documentation
-[Open Battery Pack. Architecture Documentation](doc/Open Battery Pack. Architecture Documentation.pdf)
+The architecture documentation can be found in `doc` folder.
